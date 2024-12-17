@@ -58,7 +58,7 @@ The script performs the following GitHub API operations:
 
 - Requires GitHub CLI authentication
 - Processes up to 100 items per page (GitHub API limitation)
-- Temporary files (`orgs.tmp` and repos.tmp) are created during execution
+- Temporary files (`orgs.tmp` and `repos.tmp`) are created during execution
 
 ## License
 
